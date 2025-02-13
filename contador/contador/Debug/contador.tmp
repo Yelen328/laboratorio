@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\yelen\OneDrive\Documentos\laboratorio\contador\contador\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\yelen\OneDrive\Documentos\laboratorio\contador\contador\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\yelen\OneDrive\Documentos\laboratorio\contador\contador\Debug\contador.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>contador.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>contador.map</FILE>
+  <FILE>contador.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\yelen\OneDrive\Documentos\laboratorio\contador\contador\main.asm</FILE><LINE>23</LINE></SETUP>
+  <MAIN><FILE>C:\Users\yelen\OneDrive\Documentos\laboratorio\contador\contador\main.asm</FILE><LINE>54</LINE></MAIN>
+  <DELAY><FILE>C:\Users\yelen\OneDrive\Documentos\laboratorio\contador\contador\main.asm</FILE><LINE>148</LINE></DELAY>
+  <INC_CONT1><FILE>C:\Users\yelen\OneDrive\Documentos\laboratorio\contador\contador\main.asm</FILE><LINE>78</LINE></INC_CONT1>
+  <DEC_CONT1><FILE>C:\Users\yelen\OneDrive\Documentos\laboratorio\contador\contador\main.asm</FILE><LINE>88</LINE></DEC_CONT1>
+  <INC_CONT2><FILE>C:\Users\yelen\OneDrive\Documentos\laboratorio\contador\contador\main.asm</FILE><LINE>97</LINE></INC_CONT2>
+  <DEC_CONT2><FILE>C:\Users\yelen\OneDrive\Documentos\laboratorio\contador\contador\main.asm</FILE><LINE>106</LINE></DEC_CONT2>
+  <SUMA><FILE>C:\Users\yelen\OneDrive\Documentos\laboratorio\contador\contador\main.asm</FILE><LINE>115</LINE></SUMA>
+  <NO_RESETC0><FILE>C:\Users\yelen\OneDrive\Documentos\laboratorio\contador\contador\main.asm</FILE><LINE>84</LINE></NO_RESETC0>
+  <NO_RESETC1><FILE>C:\Users\yelen\OneDrive\Documentos\laboratorio\contador\contador\main.asm</FILE><LINE>93</LINE></NO_RESETC1>
+  <NO_RESETC2><FILE>C:\Users\yelen\OneDrive\Documentos\laboratorio\contador\contador\main.asm</FILE><LINE>102</LINE></NO_RESETC2>
+  <NO_RESETC3><FILE>C:\Users\yelen\OneDrive\Documentos\laboratorio\contador\contador\main.asm</FILE><LINE>111</LINE></NO_RESETC3>
+  <SUB_DELAY1><FILE>C:\Users\yelen\OneDrive\Documentos\laboratorio\contador\contador\main.asm</FILE><LINE>151</LINE></SUB_DELAY1>
+  <SUB_DELAY2><FILE>C:\Users\yelen\OneDrive\Documentos\laboratorio\contador\contador\main.asm</FILE><LINE>157</LINE></SUB_DELAY2>
+  <SUB_DELAY3><FILE>C:\Users\yelen\OneDrive\Documentos\laboratorio\contador\contador\main.asm</FILE><LINE>163</LINE></SUB_DELAY3>
+ </LABELS>
+</ASSEMBLER_INFO>
